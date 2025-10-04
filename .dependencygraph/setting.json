@@ -1,0 +1,7 @@
+{
+  "alias": {},
+  "resolveExtensions": [
+    "*.ts"
+  ],
+  "entryFilePath": "/src/classes/blueprint.ts"
+}
