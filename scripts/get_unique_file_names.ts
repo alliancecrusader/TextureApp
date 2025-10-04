@@ -1,5 +1,5 @@
 import * as fs from 'fs';
-import {getFileExtension, removeFileExtension} from '../modules/fs_util';
+import {getFileExtension, removeFileExtension} from '../src/modules/fs_util';
 
 const texturesPaths = [
   './src/SFS/Example/Color Textures',

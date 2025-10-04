@@ -1,7 +1,8 @@
 import * as fs from 'fs';
-import {sfsBaseTextures} from '../consts/sfs_base_textures';
-import {FairingJSON, FuelTankJSON, PartJSON} from '../types/sfs';
-import {createBlueprintJSONSkeleton} from '../functions/blueprintjson_skeleton';
+import {sfsBaseTextures} from '../src/consts/sfs_base_textures';
+import {FairingJSON, FuelTankJSON, PartJSON} from '../src/types/sfs';
+import {createBlueprintJSONSkeleton} from '../src/functions/bpjson_skeleton';
+import {deepClone} from '../src/functions/deep_clone';
 
 const FairingExample: FairingJSON = {
   n: 'Fairing',
@@ -70,25 +71,6 @@ const FuelTankExample: FuelTankJSON = {
     bottom: '',
   },
 };
-
-function deepClone<T>(obj: T): T {
-  if (obj === null || typeof obj !== 'object') {
-    return obj;
-  }
-
-  if (obj instanceof Array) {
-    return obj.map(item => deepClone(item)) as unknown as T;
-  }
-
-  const cloned = {} as T;
-  for (const key in obj) {
-    if (Object.prototype.hasOwnProperty.call(obj, key)) {
-      cloned[key] = deepClone(obj[key]);
-    }
-  }
-
-  return cloned;
-}
 
 type Settings = {
   mode: 'include' | 'exclude'; // Mode for texture inclusion/exclusion

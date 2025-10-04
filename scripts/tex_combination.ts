@@ -1,7 +1,7 @@
 import fs from 'fs';
 import {sfsBaseTextures} from '../consts/sfs_base_textures';
 import {FuelTankJSON, PartJSON} from '../types/sfs';
-import {createBlueprintJSONSkeleton} from '../functions/blueprintjson_skeleton';
+import {createBlueprintJSONSkeleton} from '../functions/bpjson_skeleton';
 
 // Example JSON structure for a Fuel Tank part
 const FuelTankExample: FuelTankJSON = {
