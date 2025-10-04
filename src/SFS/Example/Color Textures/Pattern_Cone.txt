@@ -1,0 +1,41 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "Pattern_Cone.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 1,
+      "size": 1.0
+    },
+    "center": {
+      "mode": 1,
+      "sizeMode": 1,
+      "size": 0.3,
+      "logoHeightPercent": 0.7,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": false,
+    "flipToLight_Y": false,
+    "metalTexture": false,
+    "icon": null
+  },
+  "tags": [
+    "cone"
+  ],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Pattern_Cone",
+  "hideFlags": 0
+}

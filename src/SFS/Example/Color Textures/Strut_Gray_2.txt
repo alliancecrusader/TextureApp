@@ -1,0 +1,39 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "Strut_Gray_2.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.215,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.215,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "center": {
+      "mode": 2,
+      "sizeMode": 0,
+      "size": 1.0,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "tags": [],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Strut_Gray_2",
+  "hideFlags": 0
+}

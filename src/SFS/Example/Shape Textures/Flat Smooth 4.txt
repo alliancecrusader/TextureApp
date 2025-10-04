@@ -1,0 +1,42 @@
+{
+  "shapeTex": {
+    "textures": [
+      {
+        "texture": "Flat.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 1,
+      "size": 0.25
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 1,
+      "size": 0.25
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 0,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "shadowTex": "Smooth 4",
+  "tags": [
+    "fairing"
+  ],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Flat Smooth 4",
+  "hideFlags": 0
+}

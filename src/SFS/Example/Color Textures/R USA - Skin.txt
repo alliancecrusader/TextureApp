@@ -1,0 +1,41 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "R USA 1.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "center": {
+      "mode": 1,
+      "sizeMode": 1,
+      "size": 4.9,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": true
+    },
+    "fixedWidth": true,
+    "fixedWidthValue": 0.54,
+    "flipToLight_X": false,
+    "flipToLight_Y": false,
+    "metalTexture": false,
+    "icon": null
+  },
+  "tags": [
+    "tank"
+  ],
+  "pack_Redstone_Atlas": true,
+  "multiple": false,
+  "segments": [],
+  "name": "R USA - Skin",
+  "hideFlags": 0
+}

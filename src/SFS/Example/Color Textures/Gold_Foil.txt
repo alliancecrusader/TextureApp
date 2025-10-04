@@ -1,0 +1,39 @@
+{
+  "colorTex": {
+    "textures": [
+      {
+        "texture": "Gold_Foil_Test.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 0,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "tags": [],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Gold_Foil",
+  "hideFlags": 0
+}

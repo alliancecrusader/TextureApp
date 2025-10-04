@@ -1,0 +1,37 @@
+{
+  "texture": {
+    "textures": [
+      {
+        "texture": "Strut_Shade.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.25,
+      "sizeMode": 1,
+      "size": 0.25
+    },
+    "border_Top": {
+      "uvSize": 0.25,
+      "sizeMode": 1,
+      "size": 0.25
+    },
+    "center": {
+      "mode": 2,
+      "sizeMode": 1,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "multiple": false,
+  "segments": [],
+  "name": "Strut_Shade",
+  "hideFlags": 0
+}

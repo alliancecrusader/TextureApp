@@ -1,0 +1,64 @@
+{
+  "shapeTex": {
+    "textures": [
+      {
+        "texture": "Rivets 1.png",
+        "ideal": 1.0
+      },
+      {
+        "texture": "Rivets 2.png",
+        "ideal": 2.0
+      },
+      {
+        "texture": "Rivets 3.png",
+        "ideal": 3.0
+      },
+      {
+        "texture": "Rivets 4.png",
+        "ideal": 4.0
+      },
+      {
+        "texture": "Rivets 5.png",
+        "ideal": 5.0
+      },
+      {
+        "texture": "Rivets 6.png",
+        "ideal": 6.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.5,
+      "sizeMode": 1,
+      "size": 0.0
+    },
+    "border_Top": {
+      "uvSize": 0.5,
+      "sizeMode": 1,
+      "size": 0.0
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 0,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "shadowTex": "Smooth",
+  "tags": [
+    "cone",
+    "tank",
+    "fairing"
+  ],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Rivets",
+  "hideFlags": 0
+}

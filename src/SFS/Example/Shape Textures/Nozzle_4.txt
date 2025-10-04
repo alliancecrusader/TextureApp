@@ -1,0 +1,40 @@
+{
+  "shapeTex": {
+    "textures": [
+      {
+        "texture": "Nozzle_4.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 1,
+      "size": 0.0
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 1,
+      "size": 0.0
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 1,
+      "size": 5.0,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "shadowTex": "Faced",
+  "tags": [],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Nozzle_4",
+  "hideFlags": 0
+}

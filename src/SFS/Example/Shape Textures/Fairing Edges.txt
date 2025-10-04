@@ -1,0 +1,40 @@
+{
+  "shapeTex": {
+    "textures": [
+      {
+        "texture": "Fairing Edges.png",
+        "ideal": 0.0
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.25,
+      "sizeMode": 1,
+      "size": 0.06
+    },
+    "border_Top": {
+      "uvSize": 0.25,
+      "sizeMode": 1,
+      "size": 0.06
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 0,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": true,
+    "fixedWidthValue": 0.3,
+    "flipToLight_X": true,
+    "flipToLight_Y": true,
+    "metalTexture": false,
+    "icon": null
+  },
+  "shadowTex": "Smooth 4",
+  "tags": [],
+  "pack_Redstone_Atlas": false,
+  "multiple": false,
+  "segments": [],
+  "name": "Fairing Edges",
+  "hideFlags": 0
+}

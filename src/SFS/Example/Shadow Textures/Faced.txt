@@ -1,0 +1,37 @@
+{
+  "texture": {
+    "textures": [
+      {
+        "texture": "Smooth 2.png",
+        "ideal": 0.1
+      }
+    ],
+    "border_Bottom": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "border_Top": {
+      "uvSize": 0.0,
+      "sizeMode": 0,
+      "size": 0.5
+    },
+    "center": {
+      "mode": 0,
+      "sizeMode": 0,
+      "size": 0.5,
+      "logoHeightPercent": 0.5,
+      "scaleLogoToFit": false
+    },
+    "fixedWidth": false,
+    "fixedWidthValue": 1.0,
+    "flipToLight_X": true,
+    "flipToLight_Y": false,
+    "metalTexture": false,
+    "icon": null
+  },
+  "multiple": false,
+  "segments": [],
+  "name": "Faced",
+  "hideFlags": 0
+}
